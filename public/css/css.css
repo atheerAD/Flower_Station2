@@ -1,0 +1,53 @@
+
+h3, .navbar-brand {
+    font-family: 'Righteous', cursive;
+
+}
+.navbar {
+     padding: .2rem 1rem !important;
+     direction: rtl !important;
+    }
+.navbar-light .navbar-nav .nav-link {
+    color: #ffffff !important;
+}
+.nv-color {
+    background-color:#6E5772!important;
+}
+.navbar-light .navbar-brand {
+    color: white !important;
+}
+.h-100 {
+    height: 500px !important;
+}
+.btn-dark2 {
+    color: #fff ;
+    background-color: #6e5772 ;
+    border-color: #635067 ;
+}
+.carousel-item .btn:hover {
+    color: #ffffff !important;
+}
+.btn:focus {
+    box-shadow: 0 0 0 0.2rem rgba(216, 228, 241, 0.25) !important;
+}
+.carousel-item img {
+ /* Add the blur effect */
+  filter: blur(8px);
+  -webkit-filter: blur(3px);
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+.carousel-caption {
+    top: 250px ;
+
+}
+.card {
+    width: 18rem;
+    
+
+}
+.card-deck {
+    margin: 30px;
+}
